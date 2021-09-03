@@ -1,0 +1,7 @@
+export const SET_RESULT_MATCHING = 'SET_RESULT_MATCHING';
+export const SET_ID_EXTRACT = 'SET_ID_EXTRACT';
+export const SET_FACE_EXTRACT = 'SET_FACE_EXTRACT';
+export const SET_HV_LOADING = 'SET_HV_LOADING';
+export const SET_ERROR_MSG = 'SET_ERROR_MSG';
+
+
